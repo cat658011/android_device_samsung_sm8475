@@ -1,0 +1,2 @@
+ro.boot.dynamic_partitions=true
+sys.usb.controller=a600000.dwc3
